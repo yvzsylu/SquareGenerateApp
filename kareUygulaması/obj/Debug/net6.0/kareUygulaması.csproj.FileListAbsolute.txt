@@ -1,0 +1,15 @@
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\bin\Debug\net6.0\kareUygulaması.exe
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\bin\Debug\net6.0\kareUygulaması.deps.json
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\bin\Debug\net6.0\kareUygulaması.runtimeconfig.json
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\bin\Debug\net6.0\kareUygulaması.dll
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\bin\Debug\net6.0\kareUygulaması.pdb
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\obj\Debug\net6.0\kareUygulaması.csproj.AssemblyReference.cache
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\obj\Debug\net6.0\kareUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\obj\Debug\net6.0\kareUygulaması.AssemblyInfoInputs.cache
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\obj\Debug\net6.0\kareUygulaması.AssemblyInfo.cs
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\obj\Debug\net6.0\kareUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\obj\Debug\net6.0\kareUygulaması.dll
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\obj\Debug\net6.0\refint\kareUygulaması.dll
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\obj\Debug\net6.0\kareUygulaması.pdb
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\obj\Debug\net6.0\kareUygulaması.genruntimeconfig.cache
+C:\Users\yvzsy\source\repos\kareUygulaması\kareUygulaması\obj\Debug\net6.0\ref\kareUygulaması.dll
